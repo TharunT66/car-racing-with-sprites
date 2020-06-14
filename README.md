@@ -1,2 +1,2 @@
-# car-racing-with-sprites
-this time we coded in game.js and also gave sprites and camera positions
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
